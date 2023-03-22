@@ -1,0 +1,31 @@
+/* Navigation */
+#navbar {
+    flex-direction: column;
+}
+
+
+/* home */
+#home {
+    height: 436px;
+}
+
+
+
+#home p {
+    font-size: 13px;
+
+}
+
+/* services */
+#services {
+    flex-direction: column;
+}
+
+/* client */
+#clients {
+    flex-direction: column;
+}
+
+.client-item {
+    padding: 2px;
+}
